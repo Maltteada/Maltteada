@@ -1,4 +1,4 @@
-## Buenas <img src="Images/PikachuChikito.png" height="30" alt="Pikachu" />
+## Buenas <img src="Images/PikachuChikito.png" height="40" alt="Pikachu" />
 
 ## Lo que he utilizado 
 
