@@ -1,6 +1,6 @@
-## Buenas 
+## Buenas <img src="Images/PikachuChikito.png" height="30" alt="Pikachu" />
 
-## Lo que he utilizado
+## Lo que he utilizado 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
